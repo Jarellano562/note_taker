@@ -1,8 +1,8 @@
 //==============================================================
 //NEED TO ADD OUR DEPENDENCIES 
-//const dbnotes = require('./Develop/db/db.json');
+const dbnotes = require('./Develop/db/db.json');
 
-const dbnote = require ('./Develop/db/db.json')
+//const dbnote = require ('./Develop/db/db.json')
 const express = require("express");
 
 const path = require("path");
